@@ -1,4 +1,4 @@
-# 
+# advanced Sketch for macOS Automation | non-destructive editing + grid systems offers the most advanced Sketch for macOS automation, with non-destructive editing and grid systems.
 
 
 
